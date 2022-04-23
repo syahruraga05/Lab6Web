@@ -1,4 +1,4 @@
-# **Praktikum 5**
+# **Praktikum 6**
   ---------------
 |Nama			|Kelas		|NIM		|
 |-----			|-----		|-----		|
